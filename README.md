@@ -9,6 +9,7 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=anotherrandomonline&show_icons=true&include_all_commits=true&theme=react"/>
 </div>
+
 ---
 
 <!--START_SECTION:waka-->
@@ -26,4 +27,5 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 ---
 
-![](https://github-profile-trophy.vercel.app/?username=anotherrandomonline&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+<div align="center">
+![](https://github-profile-trophy.vercel.app/?username=anotherrandomonline&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)</div>
