@@ -24,3 +24,7 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+---
+
+![](https://github-profile-trophy.vercel.app/?username=anotherrandomonline&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
