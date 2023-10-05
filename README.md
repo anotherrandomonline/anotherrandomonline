@@ -5,9 +5,9 @@
 ---
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anotherrandomonline&theme=react"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anotherrandomonline&theme=react" height="160"/>
   
-<img src="https://github-readme-stats.vercel.app/api?username=anotherrandomonline&show_icons=true&include_all_commits=true&theme=react"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anotherrandomonline&show_icons=true&include_all_commits=true&theme=react" height="160"/>
 </div>
 
 ---
@@ -28,4 +28,7 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ---
 
 <div align="center">
-![](https://github-profile-trophy.vercel.app/?username=anotherrandomonline&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)</div>
+  
+![](https://github-profile-trophy.vercel.app/?username=anotherrandomonline&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
