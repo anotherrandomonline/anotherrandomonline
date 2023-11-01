@@ -15,20 +15,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2023 - To: 29 October 2023
+From: 03 October 2023 - To: 30 October 2023
 
-Total Time: 78 hrs 24 mins
+Total Time: 78 hrs 52 mins
 
-JavaScript   61 hrs 3 mins   ███████████████████▒░░░░░   77.88 %
-Python       8 hrs 39 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
-Text         5 hrs 29 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+JavaScript   61 hrs 30 mins  ███████████████████▒░░░░░   77.99 %
+Python       8 hrs 39 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
+Text         5 hrs 29 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
 JSON         51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 C++          35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 Ezhil        18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 Markdown     11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 CSS          11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 HTML         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Bash         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Bash         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
