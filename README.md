@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2023 - To: 16 December 2023
+From: 03 October 2023 - To: 17 December 2023
 
-Total Time: 111 hrs 16 mins
+Total Time: 111 hrs 24 mins
 
-JavaScript   80 hrs 5 mins   ██████████████████░░░░░░░   71.97 %
-Python       18 hrs 8 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
-Text         8 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+JavaScript   80 hrs 5 mins   ██████████████████░░░░░░░   71.89 %
+Python       18 hrs 9 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
+Text         8 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
 C++          52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 JSON         52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 Todotxt      40 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
