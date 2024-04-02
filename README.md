@@ -15,16 +15,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2023 - To: 30 March 2024
+From: 03 October 2023 - To: 31 March 2024
 
-Total Time: 154 hrs 45 mins
+Total Time: 155 hrs 5 mins
 
-JavaScript   80 hrs 5 mins   █████████████░░░░░░░░░░░░   51.75 %
-Python       52 hrs 37 mins  ████████▓░░░░░░░░░░░░░░░░   34.01 %
-Text         17 hrs 11 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
+JavaScript   80 hrs 5 mins   █████████████░░░░░░░░░░░░   51.64 %
+Python       52 hrs 57 mins  ████████▓░░░░░░░░░░░░░░░░   34.15 %
+Text         17 hrs 11 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
 JSON         53 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 C++          52 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Todotxt      40 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Todotxt      40 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 HTML         28 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 Other        26 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 Ezhil        18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
