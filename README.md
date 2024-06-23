@@ -15,20 +15,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2023 - To: 20 June 2024
+From: 03 October 2023 - To: 21 June 2024
 
-Total Time: 412 hrs 2 mins
+Total Time: 413 hrs 16 mins
 
-JavaScript            197 hrs 46 mins ████████████░░░░░░░░░░░░░   48.00 %
-Python                129 hrs 40 mins ████████░░░░░░░░░░░░░░░░░   31.47 %
-Text                  70 hrs 51 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.20 %
+JavaScript            198 hrs 56 mins ████████████░░░░░░░░░░░░░   48.14 %
+Python                129 hrs 40 mins ████████░░░░░░░░░░░░░░░░░   31.38 %
+Text                  70 hrs 51 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
 Other                 4 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 JSON                  2 hrs 15 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-HTML                  2 hrs 7 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Todotxt               1 hr 27 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+HTML                  2 hrs 8 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Todotxt               1 hr 27 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 Bash                  54 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 C++                   52 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Ezhil                 18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+CSS                   19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
