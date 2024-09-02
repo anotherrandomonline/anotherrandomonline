@@ -15,17 +15,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2023 - To: 30 August 2024
+From: 03 October 2023 - To: 31 August 2024
 
-Total Time: 476 hrs 2 mins
+Total Time: 477 hrs 42 mins
 
-JavaScript            208 hrs 15 mins ███████████░░░░░░░░░░░░░░   43.75 %
-Python                152 hrs 1 min   ████████░░░░░░░░░░░░░░░░░   31.93 %
-Text                  91 hrs 9 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
-Other                 8 hrs 50 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+JavaScript            208 hrs 15 mins ███████████░░░░░░░░░░░░░░   43.59 %
+Python                153 hrs 25 mins ████████░░░░░░░░░░░░░░░░░   32.12 %
+Text                  91 hrs 9 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.08 %
+Other                 8 hrs 50 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
 C#                    4 hrs 17 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 HTML                  2 hrs 19 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-JSON                  2 hrs 18 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+JSON                  2 hrs 18 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 Todotxt               1 hr 27 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 Binary                1 hr 15 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 Bash                  55 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
