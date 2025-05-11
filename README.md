@@ -15,14 +15,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2023 - To: 08 May 2025
+From: 03 October 2023 - To: 09 May 2025
 
-Total Time: 1,254 hrs 56 mins
+Total Time: 1,262 hrs 49 mins
 
-JavaScript            627 hrs 33 mins ████████████▓░░░░░░░░░░░░   50.01 %
-Python                469 hrs 17 mins █████████▒░░░░░░░░░░░░░░░   37.40 %
-Other                 72 hrs 54 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-Text                  24 hrs 46 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+JavaScript            635 hrs 23 mins ████████████▓░░░░░░░░░░░░   50.31 %
+Python                469 hrs 17 mins █████████▒░░░░░░░░░░░░░░░   37.16 %
+Other                 72 hrs 54 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+Text                  24 hrs 46 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 JSON                  11 hrs 36 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 Bash                  8 hrs 47 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 HTML                  7 hrs 11 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
