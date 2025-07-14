@@ -15,19 +15,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2023 - To: 11 July 2025
+From: 03 October 2023 - To: 12 July 2025
 
-Total Time: 1,400 hrs 36 mins
+Total Time: 1,406 hrs 8 mins
 
-JavaScript            657 hrs 5 mins  ███████████▓░░░░░░░░░░░░░   46.91 %
-Python                576 hrs 48 mins ██████████▒░░░░░░░░░░░░░░   41.18 %
-Other                 76 hrs 31 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Text                  24 hrs 46 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+JavaScript            661 hrs 40 mins ███████████▓░░░░░░░░░░░░░   47.06 %
+Python                576 hrs 48 mins ██████████▒░░░░░░░░░░░░░░   41.02 %
+Other                 77 hrs 29 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Text                  24 hrs 46 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 JSON                  14 hrs 34 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 Bash                  8 hrs 51 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 HTML                  7 hrs 32 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 C#                    5 hrs 47 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-YAML                  5 hrs 15 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+YAML                  5 hrs 15 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 Docker                4 hrs 34 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
