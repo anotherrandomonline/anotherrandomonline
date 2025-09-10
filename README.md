@@ -15,12 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2023 - To: 07 September 2025
+From: 03 October 2023 - To: 08 September 2025
 
-Total Time: 1,471 hrs 47 mins
+Total Time: 1,472 hrs 5 mins
 
-JavaScript            713 hrs 49 mins ████████████░░░░░░░░░░░░░   48.50 %
-Python                579 hrs         ██████████░░░░░░░░░░░░░░░   39.34 %
+JavaScript            714 hrs 8 mins  ████████████░░░░░░░░░░░░░   48.51 %
+Python                579 hrs         █████████▓░░░░░░░░░░░░░░░   39.33 %
 Other                 80 hrs 39 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
 Text                  24 hrs 46 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 JSON                  15 hrs 34 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
