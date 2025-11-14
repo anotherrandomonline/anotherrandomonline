@@ -15,20 +15,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2023 - To: 11 November 2025
+From: 03 October 2023 - To: 12 November 2025
 
-Total Time: 1,541 hrs 42 mins
+Total Time: 1,549 hrs 7 mins
 
-JavaScript            772 hrs 43 mins ████████████▓░░░░░░░░░░░░   50.12 %
-Python                582 hrs 1 min   █████████▒░░░░░░░░░░░░░░░   37.75 %
-Other                 84 hrs 14 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Text                  24 hrs 46 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-JSON                  17 hrs 13 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+JavaScript            772 hrs 44 mins ████████████▒░░░░░░░░░░░░   49.88 %
+Python                582 hrs 1 min   █████████▒░░░░░░░░░░░░░░░   37.57 %
+Other                 84 hrs 14 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+Text                  24 hrs 46 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+JSON                  17 hrs 21 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+TypeScript            10 hrs 52 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 Bash                  9 hrs 37 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 HTML                  8 hrs 49 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-C#                    5 hrs 47 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+C#                    5 hrs 47 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 YAML                  5 hrs 15 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-CSV                   4 hrs 56 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
