@@ -15,9 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2023 - To: 04 June 2026
+From: 03 October 2023 - To: 06 June 2026
 
-Total Time: 1,635 hrs
+Total Time: 1,635 hrs 1 min
 
 JavaScript            790 hrs 6 mins        ████████████░░░░░░░░░░░░░   48.32 %
 Python                611 hrs 22 mins       █████████▒░░░░░░░░░░░░░░░   37.39 %
